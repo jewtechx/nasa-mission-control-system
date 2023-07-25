@@ -1,2 +1,2 @@
 [build]
-  publish = "../SERVER/public"
+  publish = "/opt/build/repo/SERVER/public" # Absolute path to the already built files
