@@ -1,3 +1,2 @@
 [build]
-  command = "ls"
   publish = "../SERVER/public"
