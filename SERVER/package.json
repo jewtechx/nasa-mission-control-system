@@ -10,7 +10,8 @@
     "test": "jest",
     "test-watch": "jest --watch",
     "watch": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "cluster":"pm2 start src/server.js -l log.txt -i max"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,123 @@
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
+::1 - - [26/Jul/2023:13:29:33 +0000] "GET /launches HTTP/1.1" 200 201 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0"
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
+::1 - - [26/Jul/2023:13:29:53 +0000] "GET /launches HTTP/1.1" 200 201 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0"
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+TypeError: done is not a function
+    at C:\Users\JewTech - X\node_modules\express\lib\response.js:450:22
+    at SendStream.ondirectory (C:\Users\JewTech - X\node_modules\express\lib\response.js:1064:5)
+    at SendStream.emit (node:events:511:28)
+    at SendStream.redirect (C:\Users\JewTech - X\node_modules\send\index.js:475:10)
+    at onstat (C:\Users\JewTech - X\node_modules\send\index.js:723:41)
+    at FSReqCallback.oncomplete (node:fs:199:5)
+8 habitable planets found!
+Server listening on port 8000
+8 habitable planets found!
+Server listening on port 8000
