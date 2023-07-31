@@ -48,16 +48,19 @@ function useLaunches(onSuccessSound, onAbortSound, onFailureSound) {
 
   const abortLaunch = useCallback(async (id) => {
     const response = await httpAbortLaunch(id);
-
-    const successs = response.ok;
-    if (successs) {
+  
+    const success = response.ok;
+    if (success) {
       getLaunches();
       onAbortSound();
+  
+      // Refresh the page after successful abort
+      window.location.reload();
     } else {
       onFailureSound();
     }
   }, [getLaunches, onAbortSound, onFailureSound]);
-
+  
   return {
     launches,
     isPendingLaunch,
