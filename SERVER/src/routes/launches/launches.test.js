@@ -11,15 +11,15 @@ describe("Testing launches api", () => {
         await mongoDisconnect()
     },20000)
 
-    describe('Test GET /launches', () => {
+    describe('Test GET /v1/launches', () => {
         test('It should respond with 200 success', async () => {
-            const response = await request(app).get('/launches')
+            const response = await request(app).get('/v1/launches')
             .expect(200)
             .expect('Content-Type', /json/)
         },20000)
     })
     
-    describe('Test POST /launches',() => {
+    describe('Test POST /v1/launches',() => {
     
         const completeLaunchData = {
             mission:'Jew Tech Explorations',
@@ -43,7 +43,7 @@ describe("Testing launches api", () => {
     
         test('It should respond with 201 created',async() => {
             const response = await request(app)
-            .post('/launches')
+            .post('/v1/launches')
             .send(completeLaunchData)
             .expect('Content-Type', /json/)
             .expect(201);
@@ -57,7 +57,7 @@ describe("Testing launches api", () => {
     
         test('It should catch missing required properties', async() => {
             const response = await request(app)
-            .post('/launches')
+            .post('/v1/launches')
             .send(completeDataWithoutDate)
             .expect('Content-Type', /json/)
             .expect(400);
@@ -69,7 +69,7 @@ describe("Testing launches api", () => {
         
         test('It should catch invalid dates', async() => {
             const response = await request(app)
-            .post('/launches')
+            .post('/v1/launches')
             .send(completeDataWithInvalidDate)
             .expect('Content-Type', /json/)
             .expect(400);
